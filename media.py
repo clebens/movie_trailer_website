@@ -1,5 +1,6 @@
 import webbrowser
 
+# Base class on which Movie class is based; not really used in this application aside from dependency for Movie
 class Video():
     def __init__(self, title, duration):
         self.title = title

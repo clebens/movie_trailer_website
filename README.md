@@ -1,5 +1,4 @@
 # Movie Trailer Website
-### Colin Lebens
 
 The movie trailer website was constructed by performing the following steps:
 - Define a Movie class that stores all of the data associated with a movie
